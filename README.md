@@ -1,2 +1,2 @@
-# qgis_tutoriais
+# QGIS Tutoriais
 Local para partilha de tutoriais que vou criando
