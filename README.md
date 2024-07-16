@@ -1,6 +1,8 @@
 # 📚 Tutoriais de QGIS
 
-Bem-vindo ao repositório de Tutoriais de QGIS! Este é um espaço para compartilhar os tutoriais e documentos. Mergulhe e melhore suas habilidades no QGIS! 🚀
+Bem-vindo ao repositório de Tutoriais de QGIS!
+
+Este é um espaço para compartilhar tutoriais e documentos. Mergulhe e melhore as suas habilidades no QGIS! 🚀
 
 ## Plugins
 
@@ -9,8 +11,9 @@ Bem-vindo ao repositório de Tutoriais de QGIS! Este é um espaço para comparti
 
 ## Análise de Redes
 
-* 🔗 [QGIS_Redes.pdf](QGIS_Redes.pdf) - Tutorial cobrindo análise e visualização de redes usando o QGIS.
+* 🔗 [QGIS_Redes.pdf](QGIS_Redes.pdf) - Tutorial cobrindo a análise e visualização de redes usando o QGIS.
 
-## 🌟 Contribuindo
-Sinta-se à vontade para contribuir fazendo um fork deste repositório e criando pull requests. Vamos tornar o aprendizado de GIS acessível para todos! 🌍
+## 🌟 Contributos
+Sinta-se à vontade para contribuir fazendo um fork deste repositório e criando pull requests. 
 
+Vamos tornar o aprendizado de GIS acessível para todos! 🌍
