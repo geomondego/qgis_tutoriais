@@ -1,0 +1,14 @@
+[general]
+name=CTT Código Postal
+description=Ferramenta Processing para pesquisar códigos postais portugueses através da API cttcodigopostal.pt e gerar pontos no projeto QGIS.
+version=0.1.0
+qgisMinimumVersion=3.22
+author=QGIS Tutoriais
+email=
+category=Plugins
+tags=processing,ctt,código postal,geocoding,portugal
+homepage=https://www.cttcodigopostal.pt/api
+tracker=
+repository=
+experimental=True
+deprecated=False
